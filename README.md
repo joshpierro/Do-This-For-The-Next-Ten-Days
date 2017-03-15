@@ -1,7 +1,7 @@
 # Do-This-For-The-Next-Ten-Days
 #### My Attempt at This:
 * <a href='https://github.com/joshpierro/Do-This-For-The-Next-Ten-Days/blob/master/Day%20One.md'>Day One</a>: Write ten ideas for businesses you can start.
-* Day Two: Write ten ideas for non-fiction books you can write.
+* <a href='https://github.com/joshpierro/Do-This-For-The-Next-Ten-Days/blob/master/Day%20Two.md'>Day Two</a>: Write ten ideas for non-fiction books you can write.
 * Day Three: Pick one of the books from Day Two. Write ten chapter titles.
 * Day Four: Write ten ideas that would make the major airline in your country even better.
 * Day Five: Write ten ideas for articles I can write. Me.
