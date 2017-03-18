@@ -3,7 +3,7 @@
 * <a href='https://github.com/joshpierro/Do-This-For-The-Next-Ten-Days/blob/master/Day%20One.md'>Day One</a>: Write ten ideas for businesses you can start.
 * <a href='https://github.com/joshpierro/Do-This-For-The-Next-Ten-Days/blob/master/Day%20Two.md'>Day Two</a>: Write ten ideas for non-fiction books you can write.
 * <a href='https://github.com/joshpierro/Do-This-For-The-Next-Ten-Days/blob/master/Day%20Three.md'>Day Three</a>: Pick one of the books from Day Two. Write ten chapter titles.
-* Day Four: Write ten ideas that would make the major airline in your country even better.
+* <a href='https://github.com/joshpierro/Do-This-For-The-Next-Ten-Days/blob/master/Day%20Four.md'>Day Four</a>: Write ten ideas that would make the major airline in your country even better.
 * Day Five: Write ten ideas for articles I can write. Me.
 * Day Six: Write ten new skills you would like to learn and what would be the first step in learning those skills.
 * Day Seven: Write down ten questions you would ask your great-great grandfather if he were alive that if you knew the answers, your life would be better.
