@@ -1,5 +1,5 @@
 ## Ten Articles James Altucher Can Write
-1. How to self publish a book
+1. How to self publish a book - the nitty gritty
 2. Practical exercise for the busy person
 3. Healthy approach to eating
 4. Advice for your first job
