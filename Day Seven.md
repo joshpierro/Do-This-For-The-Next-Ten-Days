@@ -9,3 +9,6 @@
 8. Did you bury any treasure or money?
 9. Where did the name Dallett come from 
 10. What does it feel like to win?
+
+
+<a href='https://www.racingmuseum.org/hall-of-fame/j-dallett-byers'>https://www.racingmuseum.org/hall-of-fame/j-dallett-byers</a>
