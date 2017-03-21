@@ -6,7 +6,7 @@
 * <a href='https://github.com/joshpierro/Do-This-For-The-Next-Ten-Days/blob/master/Day%20Four.md'>Day Four</a>: Write ten ideas that would make the major airline in your country even better.
 * <a href='https://github.com/joshpierro/Do-This-For-The-Next-Ten-Days/blob/master/Day%20Five.md'> Day Five</a>: Write ten ideas for articles I can write. Me.
 * <a href='https://github.com/joshpierro/Do-This-For-The-Next-Ten-Days/blob/master/Day%20Six.md'>Day Six</a>: Write ten new skills you would like to learn and what would be the first step in learning those skills.
-* Day Seven: Write down ten questions you would ask your great-great grandfather if he were alive that if you knew the answers, your life would be better.
+* <a href='https://github.com/joshpierro/Do-This-For-The-Next-Ten-Days/blob/master/Day%20Seven.md'>Day Seven</a>: Write down ten questions you would ask your great-great grandfather if he were alive that if you knew the answers, your life would be better.
 * Day Eight: Write down ten ways you would make your company more peaceful if you were in charge.
 * Day Nine: Write ten new ways you can meet someone to be a life partner. Or if you have one, write down ten ways you can surprise him or her TODAY.
 * Day Ten: Write down the list of lists of ten ideas you will over the next ten days.
